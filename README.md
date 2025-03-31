@@ -31,12 +31,12 @@ A full-stack web application to process, filter, and visualize car sales data us
 ### Backend Setup
 cd backend : 
 
-python app.py
+- python app.py
 
 ### Frontend Setup
 cd frontend:
 
-npm start
+- npm start
 
 
 ### API Endpoints
@@ -48,10 +48,10 @@ GET /analytics/<task_id> → Get processed analytics data
 
 ### UI Features
 
-Input filters: start year, end year, company names
-Task ID + live status tracking
-Bar Chart: Total sales by company
-Line Chart: Sales records by year
+- Input filters: start year, end year, company names
+- Task ID + live status tracking
+- Bar Chart: Total sales by company
+- Line Chart: Sales records by year
 
 
 
