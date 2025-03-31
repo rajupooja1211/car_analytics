@@ -6,9 +6,8 @@ A full-stack web application to process, filter, and visualize car sales data us
 
 ## Demo Preview
 
-![alt text](image.png)
-![alt text](image-1.png)
-
+![1.](screenshots/image.png)
+![2.](screenshots/image-1.png)
 ## Tech Stack
 
 - **Frontend:** React, Chart.js
@@ -30,15 +29,13 @@ A full-stack web application to process, filter, and visualize car sales data us
 ## Setup Instructions
 
 ### Backend Setup
-cd backend
-python -m venv venv
-source venv/bin/activate  
-pip install -r requirements.txt
+cd backend : 
+
 python app.py
 
 ### Frontend Setup
-cd frontend/frontend
-npm install
+cd frontend:
+
 npm start
 
 
